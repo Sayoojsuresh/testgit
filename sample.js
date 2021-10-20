@@ -1,3 +1,4 @@
 console.log("hello world")
 console.log("test world")
-console.log("new edited from vs")
+console.log("edited from github")
+console.log("edited from vs code")
